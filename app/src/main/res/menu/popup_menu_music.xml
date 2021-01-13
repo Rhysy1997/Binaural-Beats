@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item1"
+        android:title="No music"/>
+
+    <item android:id="@+id/item2"
+        android:title="Healing water"/>
+
+    <item android:id="@+id/item3"
+        android:title="In the light"/>
+
+    <item android:id="@+id/item4"
+        android:title="Nostalgia"/>
+
+    <item android:id="@+id/item5"
+        android:title="Quiet time"/>
+
+    <item android:id="@+id/item6"
+        android:title="Sad winds"/>
+
+    <item android:id="@+id/item7"
+        android:title="Deep meditation"/>
+</menu>

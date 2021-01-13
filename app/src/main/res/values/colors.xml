@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3BADFC</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#0294E4</color>
+    <color name="colorDefaultText">#535151</color>
+
+    <color name="colorDelta">#40C4FF</color>
+    <color name="colorTheta">#B2FF59</color>
+    <color name="colorAlpha">#FFD740</color>
+    <color name="colorBeta">#FFAB40</color>
+    <color name="colorGamma">#FF5252</color>
+
+</resources>

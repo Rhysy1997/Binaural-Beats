@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307380088508",
+    "firebase_url": "https://binauralbeats-b11e8.firebaseio.com",
+    "project_id": "binauralbeats-b11e8",
+    "storage_bucket": "binauralbeats-b11e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307380088508:android:909c1ae54266947b862ab9",
+        "android_client_info": {
+          "package_name": "com.example.binauralbeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307380088508-j15403lnejdh53dgmh3tk0bivbtmt9hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.binauralbeats",
+            "certificate_hash": "ae816c3febad798650e8c5d5bfc0fa7839c27a69"
+          }
+        },
+        {
+          "client_id": "307380088508-j2nom4h33227sn2im1v34mktmvvna11j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZwE7BgE8Bzgiy9_LCo3iq-MK80CVnhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307380088508-j2nom4h33227sn2im1v34mktmvvna11j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
